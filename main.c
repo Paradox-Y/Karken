@@ -59,6 +59,7 @@ const char startup[] =
 "        Type  :help   for help    :open  to open a file\n"
 "              :new    new buffer   :q     to quit\n";
 
+// Karken starts here — event loop and editor init will live in main.
 int main()
 {
     printf("%s",startup);
