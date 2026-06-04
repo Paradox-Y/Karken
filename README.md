@@ -31,14 +31,14 @@ Pass a file path to open it on startup:
 
 ## Project layout
 
-| File        | Role                          |
-|-------------|-------------------------------|
-| `main.c`    | Entry point and event loop    |
-| `editor.c`  | Editing commands              |
-| `buffer.c`  | Text buffer                   |
-| `input.c`   | Keyboard input                |
-| `terminal.c`| Terminal control and rendering|
-| `kraken.h`  | Shared types and declarations |
+| File         | Role                           |
+| ------------ | ------------------------------ |
+| `main.c`     | Entry point and event loop     |
+| `editor.c`   | Editing commands               |
+| `buffer.c`   | Text buffer                    |
+| `input.c`    | Keyboard input                 |
+| `terminal.c` | Terminal control and rendering |
+| `kraken.h`   | Shared types and declarations  |
 
 ## License
 
