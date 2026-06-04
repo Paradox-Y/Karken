@@ -1,6 +1,6 @@
-# Karken
+# Kraken
 
-**Karken** is a terminal text editor built entirely in **C**. It runs in your console (no GUI), reads keyboard input directly, and manages file content through a custom buffer and editor core—similar in spirit to minimal editors like `kilo` or `vim`, but implemented from scratch as a learning project.
+**Kraken** is a terminal text editor built entirely in **C**. It runs in your console (no GUI), reads keyboard input directly, and manages file content through a custom buffer and editor core—similar in spirit to minimal editors like `kilo` or `vim`, but implemented from scratch as a learning project.
 
 This repository is the source for that editor: plain C files, a small `Makefile`, and no external runtime beyond a C compiler and your terminal.
 
@@ -15,7 +15,7 @@ This repository is the source for that editor: plain C files, a small `Makefile`
 make
 ```
 
-The binary is written to `build/karken` (or `build/karken.exe` on Windows).
+The binary is written to `build/kraken` (or `build/kraken.exe` on Windows).
 
 ## Run
 
